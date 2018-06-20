@@ -1,2 +1,4 @@
 # tic-tac-toe
-Basic React tic-tac-toe game
+React tic-tac-toe game
+
+Written & imported from codepen
